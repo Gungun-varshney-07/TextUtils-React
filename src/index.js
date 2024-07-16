@@ -15,3 +15,21 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+// export const metadata: Metadata = {
+//   title: 'TextUtils - Home',
+//   icons: [
+//     {
+//       rel: 'icon',
+//       type: 'image/x-icon',
+//       url: '/favicon.ico',
+//       media: '(prefers-color-scheme: light)',
+//     },
+//     {
+//       rel: 'icon',
+//       type: 'image/png',
+//       url: '/favicon-dark.png',
+//       media: '(prefers-color-scheme: dark)',
+//     },
+//   ],
+// }
